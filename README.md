@@ -2,6 +2,8 @@
 
 The first PlyPad Module containing the desk
 
+The original CAD files can be found here [OnShape](https://cad.onshape.com/documents/8d04a283bad09e15e4cd354c/w/5472fc6dd4d7de0ad1f4a9ff/e/a2d5c4f43bb67b711b57c1b6)
+
 The PlyPad project was a project run by Maslow during the winter of 2017 in cooperation with SERA Architects, the Portland Art Museum, and the PSU School of Design. The goal was to provide transitional shelter to a previously housless woman through the [Kenton Womens Village](https://www.catholiccharitiesoregon.org/provide-shelter/kenton-womens-village/).
 
 The project was an experiment on multiple fronts with multiple organizations directing the design, and an experimental construction technique and I would not recommend building this design again directly, however many of the lessons learned are valuable and can be easily applied to future projects or an updated and improved version of this design.
