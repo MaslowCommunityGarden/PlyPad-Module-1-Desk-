@@ -24,10 +24,10 @@ Module 1 connected to the others
 
 Interior view showing the desk
 
-![Module 1 being loaded](https://github.com/MaslowCommunityGarden/PlyPad-Module-1-Desk-/blob/master/IMG_20180113_095022131_HDR.jpg)
+![Module 1 being loaded](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-1-Desk-/master/IMG_20180113_095022131_HDR.jpg)
 
 Module 1 being loaded
 
-![Module 1 arriving in Kenton](https://github.com/MaslowCommunityGarden/PlyPad-Module-1-Desk-/blob/master/IMG_20180113_140121040_HDR.jpg)
+![Module 1 arriving in Kenton](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-1-Desk-/master/IMG_20180113_140121040_HDR.jpg)
 
 Module 1 being installed in Kenton
