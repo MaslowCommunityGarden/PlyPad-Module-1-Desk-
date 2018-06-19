@@ -12,6 +12,7 @@ The project was an experiment on multiple fronts with multiple organizations dir
 
 CAD Overview
 
+
 ![interiror wall structure](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-1-Desk-/master/Foam%2BInsulation%2BIn%2BPlace.jpg)
 
 Showing interior wall structure
